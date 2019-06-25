@@ -1,0 +1,8 @@
+{
+
+  "projectId": "8ni68b",
+  "reporterEnabled": "spec, mocha-junit-reporter",
+  "reporterOptions": {
+    "mochaFile": "results/results-[hash].xml"
+  }
+}
